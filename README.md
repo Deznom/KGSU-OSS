@@ -4,7 +4,7 @@
 
 0) [Подготовка виртуальной машины на Debian и настройка SSH](Labs/Lab-0/Lab-0.md)
 1) [Основы эксплуатации и администрирования настольных ОС Windows 10](Labs/Lab-1/Lab-1.md)
-2) Основы сетей (Windows 10).
+2) [Основы сетей (Windows 10)](Labs/Lab-2/Lab-2.md)
 3) Active Directory. Часть 1.
 4) Active Directory. Часть 2.
 5) 
