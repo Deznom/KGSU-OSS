@@ -7,7 +7,7 @@
 2) [Основы сетей (Windows 10)](Labs/Lab-2/Lab-2.md)
 3) [Восстановление пароля в Windows 10](Labs/Lab-3/Lab-3.md)
 4) [Active Directory. Часть 1.](Labs/Lab-4/Lab-4.md)
-5) Active Directory. Часть 2.
+5) [Active Directory. Часть 2.](Labs/Lab-5/Lab-5.md)
 6) Основы администрирования Linux
 7) Восстановление пароля в Linux
 8) Управление файловой системой в Linux. Настройка ZFS.
